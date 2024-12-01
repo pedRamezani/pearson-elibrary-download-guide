@@ -1,6 +1,8 @@
 # Pearson eLibrary Download Guide
 This guide demonstrates how to download full books from [Pearson eLibrary](https://elibrary.pearson.de/).
 
+**LAST CHECKED TO SEE IF THIS WAS WORKING: December 1st, 2024**
+
 1. Connect to a VPN / Login with your institution with access to the eLibrary
 2. Find a Book you can access and want to download. 
 3. Press the read button to open the PDF viewer
