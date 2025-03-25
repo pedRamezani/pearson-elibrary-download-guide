@@ -25,13 +25,11 @@ This guide demonstrates how to download full books from [Pearson eLibrary](https
 1-4. Follow steps from first method
 5. Switch to Network tab
 6. Reload the page
-7. Copy the URL requesting the subdocument /content/pdf-for-viewer.
+7. Copy the URL requesting the subdocument /content/pdf-for-viewer
 8. In a new tab open https://elibrary.pearson.de + /content/...
 9. Freedom!
 
-![Network tab with URL, copy red, ignore blue](![Screenshot_20250325_145630-1](https://github.com/user-attachments/assets/4bb31d1b-1421-4b1c-921e-8d574e87cd8b)
-)
-
+![Network tab with URL, copy red, ignore blue](https://github.com/user-attachments/assets/4bb31d1b-1421-4b1c-921e-8d574e87cd8b)
 
 ---
 ## Alternative (Just the download step)
