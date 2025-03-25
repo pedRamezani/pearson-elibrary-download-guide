@@ -18,6 +18,21 @@ This guide demonstrates how to download full books from [Pearson eLibrary](https
 
 ![Developer console with loaded PDF URL](https://github.com/user-attachments/assets/190154cf-6de4-42b6-bcd9-d44a82b5d334)
 
+# Pearson eLibrary Download Guide using Network tab
+
+** LAST CHECKED: March 25th, 2025**
+
+1-4. Follow steps from first method
+5. Switch to Network tab
+6. Reload the page
+7. Copy the URL requesting the subdocument /content/pdf-for-viewer.
+8. In a new tab open https://elibrary.pearson.de + /content/...
+9. Freedom!
+
+![Network tab with URL, copy red, ignore blue](![Screenshot_20250325_145630-1](https://github.com/user-attachments/assets/4bb31d1b-1421-4b1c-921e-8d574e87cd8b)
+)
+
+
 ---
 ## Alternative (Just the download step)
 You can also try this approach for downloading the PDF URL. This might be useful for converting this guide into a script.
